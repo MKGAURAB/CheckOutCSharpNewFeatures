@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckOutCSharpNewFeatures.CSharp10NewFeatures", "CheckOutCSharpNewFeatures.CSharp10NewFeatures\CheckOutCSharpNewFeatures.CSharp10NewFeatures.csproj", "{0835FFB1-4E3A-4C18-A560-CD07A94CB658}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApi.Demo", "MinimalApi.Demo\MinimalApi.Demo.csproj", "{9FAE9D04-D549-40DF-9270-49A91C4F28A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{0835FFB1-4E3A-4C18-A560-CD07A94CB658}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0835FFB1-4E3A-4C18-A560-CD07A94CB658}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0835FFB1-4E3A-4C18-A560-CD07A94CB658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FAE9D04-D549-40DF-9270-49A91C4F28A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FAE9D04-D549-40DF-9270-49A91C4F28A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FAE9D04-D549-40DF-9270-49A91C4F28A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FAE9D04-D549-40DF-9270-49A91C4F28A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
